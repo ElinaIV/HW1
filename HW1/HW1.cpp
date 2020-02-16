@@ -3,5 +3,5 @@ using namespace std;
 
 int main() {
     cout << "Master commit\n";
-    cout << "Feature with Rebase\n";
+    cout << "Master's branch\n";
 }
