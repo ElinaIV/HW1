@@ -3,6 +3,6 @@ using namespace std;
 
 int main() {
     cout << "Hello World!\n";
-    cout << "Hello1!\n";
-    cout << "Change from Github!\n";
+    cout << "Feature 1\n";
+    cout << "Another commit\n";
 }
